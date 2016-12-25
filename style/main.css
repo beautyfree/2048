@@ -256,7 +256,6 @@ hr {
       display: none; }
   .game-message .score-sharing {
     display: inline-block;
-    vertical-align: middle;
     margin-left: 10px; }
   .game-message.game-won {
     background: rgba(237, 194, 46, 0.5);
